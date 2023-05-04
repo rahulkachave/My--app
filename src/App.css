@@ -1,0 +1,119 @@
+.App {
+  text-align: justify;
+ 
+  /* float: left; */
+  min-height: 100vh;
+  padding-top: 5px;
+  
+
+
+}
+.welcome{
+  color: deeppink;
+  text-align: center;
+  border: 1px solid;
+}
+.about{
+  background-color: white;
+
+/* text-align: left; */
+}
+.h2headingtag{
+color:green;
+background-color: rgb(204, 219, 233);
+
+}
+ .btnnext{
+  background-color: rgb(201, 227, 10);
+  border-color: crimson;
+  padding: 8px;
+  width: 100px;
+ 
+
+ }
+ .btnback{
+  float:right;
+  background-color: rgb(43, 227, 10);
+  border-color: crimson;
+  padding: 8px;
+  width: 100px;
+
+ }
+ 
+
+.artical{
+   float: left; 
+   padding: 20px; 
+  width:1478px;  
+  background-color: rgb(222, 234, 245);
+
+}
+.artical2{
+  float: left; 
+   padding: 20px; 
+  width:800px;  
+  background-color: rgb(237, 237, 181);
+}
+.articaldiv{
+  float: left; 
+  padding: 20px; 
+ width:400px;  
+ background-color: rgb(168, 51, 141);
+}
+.teamjava{
+  background-color: rgb(217, 198, 174);
+  height: 1000PX;
+  padding :10px ;
+  float: left;
+  width: 150px;
+ cursor: pointer;
+ transform: translateY(-8px);
+}
+
+.Footer{
+  color:white;
+  justify-content: space-evenly;
+  background-color: rgb(25, 159, 1);
+  display: flex;
+  padding: 15px;
+}
+.header{
+text-align: center;
+background-color: rgb(217, 198, 174);
+padding: 0.5px;
+color: white;
+}
+.Homecomp{
+  background-color: rgb(217, 198, 174);
+  border: 1px solid;
+  padding: 30px;
+  width: 300px;
+  font-weight: bold;
+  text-align: start;
+
+  margin: 20px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  
+
+}
+.main{
+  display:flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 300px;
+
+}
+
+/* .App-header {
+  background-color: #282c34; 
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+
